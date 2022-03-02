@@ -1,4 +1,4 @@
 # my website!
 My repos:
-- some-repo
+- [some-repo](https://pif)
 - shdw-pckg
