@@ -1,5 +1,4 @@
 # shibby360
-Shivank Chhaya
 
 shivank.chhaya@gmail.com
 
