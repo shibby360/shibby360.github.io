@@ -10,5 +10,6 @@ Sites:
 + [Sklar honors sophomore english calendar](https://shibby360.github.io/sklar-hse/)
 + [HTML editor](https://shibby360.github.io/html-editor/)
 + [replit-sites](https://shibby360.github.io/replit-sites/)
++ [lance-game-web](https://shibby360.github.io/lance-game-web/)
 
 ![lebrooooon](https://a.espncdn.com/i/headshots/nba/players/full/1966.png)
